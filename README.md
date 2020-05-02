@@ -93,16 +93,16 @@
 
 ## 欢迎关注原创公众号
 
-公众号：cuteximi   技术|思维|认知
+公众号：IT编程技术栈  技术|思维|认知
 
-![扫我](https://cdn.nlark.com/yuque/0/2019/jpeg/199648/1576915516590-assets/web-upload/ea981007-28f3-4c56-9e85-edd18d3cc244.jpeg)
+![扫我](https://cdn.nlark.com/yuque/0/2020/png/1366531/1588336557231-fdd51e56-b333-4ab3-b6a3-fe8139c79913.png)
 
-公众号：大数据每日哔哔 专注大数据数据技术
+公众号：IT编程学习栈     专注学习编程思维
+公众号：大数据每日哔哔   专注大数据数据技术
 
-![扫我](https://cdn.nlark.com/yuque/0/2019/jpeg/199648/1576915521566-assets/web-upload/98d28517-4071-4d46-a15b-4b23a7308705.jpeg)
+![扫我](https://cdn.nlark.com/yuque/0/2020/jpeg/1366531/1588417468071-29299e09-f7b5-46a3-bdfd-57eaa9566b72.jpeg)
 
 其他平台，会不定时同步更新。
 
-- [语雀](https://www.yuque.com/cuteximi/base)
-- [知乎](https://zhuanlan.zhihu.com/bigdata1995)
-- [头条号](https://www.toutiao.com/c/user/70068423102/#mid=1579500719412238)
+- [语雀](https://www.yuque.com/sshlearning/base)
+- [知乎](https://www.zhihu.com/people/sshlearning)
