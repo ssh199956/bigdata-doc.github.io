@@ -10,5 +10,5 @@ features:
   details: 分享有价值的开源资料
 - title: 高效
   details: 有目的的学习，高效升级打怪
-footer: Copyright © 2020 - 2025 sshlearning.com
+footer: Copyright © 2020 - 2025 sshlearning.cn
 ---

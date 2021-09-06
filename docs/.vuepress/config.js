@@ -100,7 +100,7 @@ var nav = [{
   link: '/ziyuan03/'
 }, {
   text: '主站',
-  link: 'http://sshlearning.com'
+  link: 'http://sshlearning.cn'
 }];
 
 module.exports = {
